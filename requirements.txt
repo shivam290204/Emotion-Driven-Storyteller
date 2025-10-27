@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+deepface
+numpy
+pandas
+pyttsx3
+transformers
+torch
+safetensors
+sentencepiece
+sounddevice
+cryptography
