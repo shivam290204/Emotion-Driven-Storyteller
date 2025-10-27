@@ -4,8 +4,8 @@ Emotion-Driven Storyteller is a privacy-first Streamlit experience that blends f
 <img width="1500" height="600" alt="Screenshot 2025-10-27 221632" src="https://github.com/user-attachments/assets/c5dfa967-9f2e-4bde-beeb-a10a1c3f6941" />
 <img width="1500" height="600" alt="Screenshot 2025-10-27 221711" src="https://github.com/user-attachments/assets/7708556f-911d-40e8-8351-190a83b0d057" />
 <img width="1200" height="400" alt="Screenshot 2025-10-27 221814" src="https://github.com/user-attachments/assets/7f7e69e3-63d0-415f-bf8e-ca6fcc1a85c0" />
-<img width="628" height="771" alt="Screenshot 2025-10-27 221840" src="https://github.com/user-attachments/assets/2b87ff97-f192-4185-9c4c-28e8d44f44b6" />
-<img width="488" height="686" alt="Screenshot 2025-10-27 221924" src="https://github.com/user-attachments/assets/53327c2e-a9b0-4b30-a9f6-1f002199f0a1" />
+<img width="528" height="650" alt="Screenshot 2025-10-27 221840" src="https://github.com/user-attachments/assets/2b87ff97-f192-4185-9c4c-28e8d44f44b6" />
+<img width="300" height="500" alt="Screenshot 2025-10-27 221924" src="https://github.com/user-attachments/assets/53327c2e-a9b0-4b30-a9f6-1f002199f0a1" />
 
 
 ## ✨ Features
